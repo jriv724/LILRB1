@@ -287,5 +287,5 @@ adata.layers["counts"]
 
 # Author
 
-Joshua Rivera  
+Joshua Rivera PhD
 Dana-Farber Cancer Institute / Harvard Medical School
